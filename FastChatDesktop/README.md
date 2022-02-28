@@ -1,2 +1,4 @@
 # Fast Chat Desktop
-License for Fast Chat Desktop app
+Fast Chat Desktop is NOT intended for redistribution or modification. 
+
+Fast Chat Desktop is a trademark of Fast Chat.

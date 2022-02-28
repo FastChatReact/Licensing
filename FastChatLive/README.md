@@ -1,2 +1,4 @@
 # Fast Chat Live
-License for Fast Chat Live (online version of the Desktop app)
+Fast Chat Live is NOT intended for redistribution or modification.
+
+Fast Chat Live is a trademark of Fast Chat.

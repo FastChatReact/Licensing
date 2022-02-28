@@ -1,2 +1,4 @@
 # Fast Chat Server
-License for the Fast Chat server. 
+Fast Chat Desktop is NOT intended for redistribution or modification. 
+
+Fast Chat Server is a trademark of Fast Chat.
